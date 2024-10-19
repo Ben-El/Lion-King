@@ -1,0 +1,1894 @@
+c:\users\ben-el\documents\visual studio 2013\Projects\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+c:\users\ben-el\documents\visual studio 2013\Projects\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Run.xnb
+c:\users\ben-el\documents\visual studio 2013\Projects\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+c:\users\ben-el\documents\visual studio 2013\Projects\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+c:\users\ben-el\documents\visual studio 2013\Projects\xxx\xxx\xxx\bin\x86\Debug\Content\stage1.xnb
+c:\users\ben-el\documents\visual studio 2013\Projects\xxx\xxx\xxx\bin\x86\Debug\xxx.exe
+c:\users\ben-el\documents\visual studio 2013\Projects\xxx\xxx\xxx\bin\x86\Debug\xxx.pdb
+c:\users\ben-el\documents\visual studio 2013\Projects\xxx\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+c:\users\ben-el\documents\visual studio 2013\Projects\xxx\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\ben-el\documents\visual studio 2013\Projects\xxx\xxx\xxx\obj\x86\Debug\xxx.exe
+c:\users\ben-el\documents\visual studio 2013\Projects\xxx\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\zzz\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הפרויקט שלי\מעודכן\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\מעודכן\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הכי מעודכן\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Falling.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\zzz.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\simba\Falling.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\zzz.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\EEE\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Scar_Stand.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Falling.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\simba\AfterFalling.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\simba\GettingHurt.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\zzz.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\simba\GettingSlashed.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Crouch.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\simba\CrouchSlash.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\simba\ThrowingEnemy.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Scar_Stand.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\scar\Scar_Stand.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Raz\Desktop\תיקיה חדשה (4)\xxx\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\zzz.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\xxx\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\simba\Falling.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\zzz.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\ttt\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\xxx\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\simba\Falling.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\zzz.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\עותק xxx\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\zzz.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הטלה לא בסדר\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\simba\Falling.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\zzz.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\סוג 2\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\simba\Falling.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\zzz.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\obj\x86\Debug\xxx.pdb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Falling.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\simba\AfterFalling.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\simba\GettingHurt.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\zzz.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\simba\GettingSlashed.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Crouch.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\simba\CrouchSlash.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Scar_Stand.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\simba\ThrowingEnemy.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\xxx.exe
+D:\simba\xxx\xxx\bin\x86\Debug\xxx.pdb
+D:\simba\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+D:\simba\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\simba\xxx\xxx\obj\x86\Debug\xxx.exe
+D:\simba\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\Lizard\Running.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\Stage10.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\Stage10.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+D:\simba\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\simba\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+F:\simba\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\simba\xxx\xxx\obj\x86\Debug\xxx.exe
+F:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Falling.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\simba\AfterFalling.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\simba\GettingHurt.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\zzz.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\simba\GettingSlashed.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\simba\CrouchSlash.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Scar_Stand.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\simba\ThrowingEnemy.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\Stage10.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\simba\Crouch.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\xxx.exe
+F:\simba\xxx\xxx\bin\x86\Debug\xxx.pdb
+F:\simba\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\zzz.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Stage10.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Hedgehog\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\Hedgehog\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\simba\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+F:\simba\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Desktop\simba\xxx\xxx\bin\x86\Debug\Content\simba\Swinging.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\simba\Falling.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\zzz.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\Stage10.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\simba\Swinging.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\עם שלב 10\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\zzz.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Stage10.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\simba\Swinging.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\simba\Running.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\stage.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\simba\Slash.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\zzz.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\Stage10.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\simba\Swinging.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הכי הכי מעודכן עותק\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\secondstage.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Slash.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Swinging.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\sss.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\sssss.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Slash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Swinging.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\secondstage.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Online.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Firststage.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\LogicFirststage.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\LogicSecondstage.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Firststage.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\LogicFirststage.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\LogicSecondstage.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Online.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\scar\Running.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\scar\Jump.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\scar\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Firststage.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Slash.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\LogicFirststage.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\LogicSecondstage.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Swinging.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Secondstage.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Online.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\scar\Running.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\scar\Jump.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\scar\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הכי מעודכן עם אונלייןןן\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Firststage.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Slash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\LogicFirststage.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\LogicSecondstage.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Swinging.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Secondstage.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Online.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\scar\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\scar\Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\scar\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הפרויקט שלי\ממש מעודכן עם אונליין\xxx\xxx\bin\x86\Debug\Content\PowerUp.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Firststage.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Slash.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\LogicFirststage.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\LogicSecondstage.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Swinging.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Secondstage.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Online.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\scar\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\scar\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\scar\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\PowerUp.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\hyena\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\hyena\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\hyena\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\hyena\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\hyena\Dying.xnb
+C:\Users\Ben-El\Desktop\Lion King בן-אל מוסיוב\xxx\xxx\bin\x86\Debug\Content\hyena\Roar.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Firststage.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Slash.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\LogicFirststage.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\LogicSecondstage.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Swinging.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Secondstage.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Online.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\scar\Running.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\scar\Jump.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\scar\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\PowerUp.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\hyena\Running.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\hyena\Stand.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\hyena\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\hyena\Dying.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\hyena\Jump.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\hyena\Roar.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\עם צבועים\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Firststage.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Slash.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\LogicFirststage.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\LogicSecondstage.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Swinging.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Secondstage.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Online.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\scar\Running.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\scar\Jump.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\scar\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\PowerUp.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\hyena\Running.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\hyena\Stand.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\hyena\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\hyena\Dying.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\hyena\Jump.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\hyena\Roar.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\עם צבועים כמעט סופי\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Firststage.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Slash.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\LogicFirststage.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\LogicSecondstage.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Swinging.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Secondstage.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Online.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\scar\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\scar\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\scar\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\PowerUp.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\hyena\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\hyena\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\hyena\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\hyena\Dying.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\hyena\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\hyena\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\Lion King\xxx\xxx\bin\x86\Debug\Content\hyena\TossedBySimba.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Roar.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Jump.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Firststage.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Hanging.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running_Jump.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Stand.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\DoubleSlash.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Slash.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Climb.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Falling.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\AfterFalling.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingHurt.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\LogicFirststage.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingSlashed.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\CrouchSlash.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Scar_Stand.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\LogicSecondstage.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Crouch.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Swinging.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Secondstage.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Online.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\scar\Running.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\scar\Jump.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\scar\Running_Jump.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\PowerUp.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\hyena\Running.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\hyena\Stand.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\hyena\Running_Jump.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\hyena\Dying.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\hyena\Jump.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\hyena\GettingSlashed.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\ThrowingEnemy.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\hyena\TossedBySimba.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\xxx.exe
+F:\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\xxx.pdb
+F:\Lion King כמעט גמור\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+F:\Lion King כמעט גמור\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Lion King כמעט גמור\xxx\xxx\obj\x86\Debug\xxx.exe
+F:\Lion King כמעט גמור\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Firststage.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Slash.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\LogicFirststage.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\LogicSecondstage.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Swinging.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Secondstage.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Online.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\scar\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\scar\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\scar\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\PowerUp.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\hyena\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\hyena\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\hyena\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\hyena\Dying.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\hyena\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\hyena\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\hyena\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\Lion King כמעט גמור\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Firststage.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Slash.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\LogicFirststage.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\LogicSecondstage.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Swinging.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Secondstage.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Online.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\scar\Running.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\scar\Jump.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\scar\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\PowerUp.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\hyena\Running.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\hyena\Stand.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\hyena\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\hyena\Dying.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\hyena\Jump.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\hyena\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\hyena\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\בן-אל מוסיוב\Lion King\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Firststage.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\IceBall.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Slash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\LogicFirststage.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\LogicSecondstage.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Swinging.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Secondstage.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Online.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\PowerUp.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Running.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Stand.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Dying.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Jump.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\FireBallSound.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\הפרויקט שלי סופי\Lion King - Final\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Slash.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Swinging.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\PowerUp.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Running.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Stand.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Dying.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\Final.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\SecondLevelSong.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\MainMenuSound.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hedgehog\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\beetle\Jump.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\HyenaBosSound.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Online.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Pause.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\FiveLives.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\FourLives.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\OneLives.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\ThreeLives.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\TwoLives.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\ZeroLives.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\SimbaFaces\AdultSimbaFace.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\SimbaFaces\CubSimbaFace.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Stages\Firststage.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Stages\LogicFirststage.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Stages\LogicSecondstage.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Stages\Secondstage.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Pointer.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\PauseMessage.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\WinningMessage.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Font.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Mute.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\ThePrideLands.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\PrideRock.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\rainDrop.xnb
+C:\Users\Ben-El\Desktop\Lion King\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\flame.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Stages\Firststage.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\DoubleSlash.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Slash.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Stages\LogicFirststage.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\CrouchSlash.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Scar_Stand.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Stages\LogicSecondstage.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Crouch.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Swinging.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Stages\Secondstage.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Running.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Jump.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\PowerUp.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Running.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Stand.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Running_Jump.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Dying.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Jump.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\GettingSlashed.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\TossedBySimba.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Jump.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hedgehog\Jump.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\beetle\Jump.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\FiveLives.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\FourLives.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\OneLives.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\ThreeLives.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\TwoLives.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\ZeroLives.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\SimbaFaces\AdultSimbaFace.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\SimbaFaces\CubSimbaFace.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Online.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Pause.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Pointer.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\PauseMessage.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\WinningMessage.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Mute.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\ThePrideLands.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\PrideRock.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\rainDrop.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\flame.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Font.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\Final.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\HyenaBosSound.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\MainMenuSound.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\SecondLevelSong.xnb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\obj\x86\Debug\xxx.csprojResolveAssemblyReference.cache
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Desktop\ליון קינג\Lion King - Final\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.Video.dll
+C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.Video.xml
+C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\obj\x86\Debug\xxx.csprojAssemblyReference.cache
+C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\obj\x86\Debug\xxx.csproj.CoreCompileInputs.cache
+C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\obj\x86\Debug\xxx.csproj.CopyComplete
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\obj\x86\Debug\xxx.exe
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\obj\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Roar.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Jump.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Stages\Firststage.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Hanging.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Stand.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\DoubleSlash.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Slash.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Climb.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Falling.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Stages\LogicFirststage.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingSlashed.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\CrouchSlash.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Stages\LogicSecondstage.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Crouch.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Swinging.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Stages\Secondstage.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Running.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Jump.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Running_Jump.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\PowerUp.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Running.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Stand.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Running_Jump.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Dying.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Jump.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\GettingSlashed.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\ThrowingEnemy.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\TossedBySimba.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Jump.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hedgehog\Jump.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\beetle\Jump.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\FiveLives.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\FourLives.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\OneLives.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\ThreeLives.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\TwoLives.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\ZeroLives.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\SimbaFaces\AdultSimbaFace.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\SimbaFaces\CubSimbaFace.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Online.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Pause.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Pointer.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\PauseMessage.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\WinningMessage.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Mute.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\ThePrideLands.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\PrideRock.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\rainDrop.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\flame.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Font.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\Final.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\HyenaBosSound.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\MainMenuSound.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\SecondLevelSong.xnb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\xxx.exe
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\xxx.pdb
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.Video.dll
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\bin\x86\Debug\Microsoft.Xna.Framework.Video.xml
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\obj\x86\Debug\xxx.csprojAssemblyReference.cache
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\obj\x86\Debug\xxx.csproj.CoreCompileInputs.cache
+C:\Users\Ben-El\Documents\My Lion king Project\Lion King - Final\xxx\xxx\obj\x86\Debug\xxx.csproj.CopyComplete

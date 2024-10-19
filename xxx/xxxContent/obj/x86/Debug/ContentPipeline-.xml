@@ -1,0 +1,803 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Adult_Simba\Roar.png</Source>
+      <Name>Adult_Simba\Roar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Roar.xnb</Output>
+      <Time>2016-10-28T01:30:24.0678217+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Adult_Simba\Jump.png</Source>
+      <Name>Adult_Simba\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Jump.xnb</Output>
+      <Time>2016-03-13T15:02:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Adult_Simba\Running.png</Source>
+      <Name>Adult_Simba\Running</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running.xnb</Output>
+      <Time>2016-03-24T13:24:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Stages\Firststage.png</Source>
+      <Name>Stages\Firststage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Stages\Firststage.xnb</Output>
+      <Time>2016-05-19T17:33:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Adult_Simba\Hanging.png</Source>
+      <Name>Adult_Simba\Hanging</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Hanging.xnb</Output>
+      <Time>2016-03-30T14:50:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Adult_Simba\Running_Jump.png</Source>
+      <Name>Adult_Simba\Running_Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Running_Jump.xnb</Output>
+      <Time>2016-03-06T10:29:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Adult_Simba\Stand.png</Source>
+      <Name>Adult_Simba\Stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Stand.xnb</Output>
+      <Time>2016-05-06T12:43:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Adult_Simba\DoubleSlash.png</Source>
+      <Name>Adult_Simba\DoubleSlash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\DoubleSlash.xnb</Output>
+      <Time>2016-03-24T13:18:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Adult_Simba\Slash.png</Source>
+      <Name>Adult_Simba\Slash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Slash.xnb</Output>
+      <Time>2016-04-13T11:45:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Adult_Simba\Climb.png</Source>
+      <Name>Adult_Simba\Climb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Climb.xnb</Output>
+      <Time>2016-05-06T17:10:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Adult_Simba\Falling.png</Source>
+      <Name>Adult_Simba\Falling</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Falling.xnb</Output>
+      <Time>2016-04-04T10:07:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Adult_Simba\AfterFalling.png</Source>
+      <Name>Adult_Simba\AfterFalling</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\AfterFalling.xnb</Output>
+      <Time>2016-04-04T10:27:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Adult_Simba\GettingHurt.png</Source>
+      <Name>Adult_Simba\GettingHurt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingHurt.xnb</Output>
+      <Time>2016-04-13T11:41:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Stages\LogicFirststage.png</Source>
+      <Name>Stages\LogicFirststage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Stages\LogicFirststage.xnb</Output>
+      <Time>2016-07-01T16:38:07.1224326+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Adult_Simba\GettingSlashed.png</Source>
+      <Name>Adult_Simba\GettingSlashed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\GettingSlashed.xnb</Output>
+      <Time>2016-04-12T14:31:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Adult_Simba\CrouchSlash.png</Source>
+      <Name>Adult_Simba\CrouchSlash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\CrouchSlash.xnb</Output>
+      <Time>2016-04-15T18:23:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>scar\Stand.png</Source>
+      <Name>scar\Stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Stand.xnb</Output>
+      <Time>2016-04-18T01:04:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>scar\GettingSlashed.png</Source>
+      <Name>scar\GettingSlashed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\GettingSlashed.xnb</Output>
+      <Time>2016-04-19T12:46:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>scar\TossedBySimba.png</Source>
+      <Name>scar\TossedBySimba</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\TossedBySimba.xnb</Output>
+      <Time>2016-04-20T15:42:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>lizard\Running.png</Source>
+      <Name>lizard\Running</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Running.xnb</Output>
+      <Time>2016-05-05T18:47:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>lizard\Stand.png</Source>
+      <Name>lizard\Stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Stand.xnb</Output>
+      <Time>2016-05-05T18:52:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Stages\LogicSecondstage.png</Source>
+      <Name>Stages\LogicSecondstage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Stages\LogicSecondstage.xnb</Output>
+      <Time>2016-10-04T11:18:57.6187725+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cub_Simba\Stand.png</Source>
+      <Name>Cub_Simba\Stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Stand.xnb</Output>
+      <Time>2016-05-13T18:45:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cub_Simba\Running.png</Source>
+      <Name>Cub_Simba\Running</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running.xnb</Output>
+      <Time>2016-05-06T16:47:04+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cub_Simba\Jump.png</Source>
+      <Name>Cub_Simba\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Jump.xnb</Output>
+      <Time>2016-05-06T16:52:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cub_Simba\Running_Jump.png</Source>
+      <Name>Cub_Simba\Running_Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Running_Jump.xnb</Output>
+      <Time>2016-05-06T16:55:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cub_Simba\Hanging_Long.png</Source>
+      <Name>Cub_Simba\Hanging_Long</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging_Long.xnb</Output>
+      <Time>2016-05-06T17:17:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cub_Simba\Climb.png</Source>
+      <Name>Cub_Simba\Climb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Climb.xnb</Output>
+      <Time>2016-05-21T22:05:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cub_Simba\Hanging.png</Source>
+      <Name>Cub_Simba\Hanging</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Hanging.xnb</Output>
+      <Time>2016-05-06T17:18:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cub_Simba\Falling.png</Source>
+      <Name>Cub_Simba\Falling</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Falling.xnb</Output>
+      <Time>2016-05-06T17:54:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cub_Simba\AfterFalling.png</Source>
+      <Name>Cub_Simba\AfterFalling</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\AfterFalling.xnb</Output>
+      <Time>2016-05-06T17:57:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cub_Simba\Crouch.png</Source>
+      <Name>Cub_Simba\Crouch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Crouch.xnb</Output>
+      <Time>2016-05-06T18:07:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Adult_Simba\Crouch.png</Source>
+      <Name>Adult_Simba\Crouch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Crouch.xnb</Output>
+      <Time>2016-05-06T18:15:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cub_Simba\GettingHurt.png</Source>
+      <Name>Cub_Simba\GettingHurt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\GettingHurt.xnb</Output>
+      <Time>2016-05-06T19:04:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cub_Simba\Roar.png</Source>
+      <Name>Cub_Simba\Roar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Roar.xnb</Output>
+      <Time>2016-05-06T19:11:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cub_Simba\Rolling.png</Source>
+      <Name>Cub_Simba\Rolling</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Rolling.xnb</Output>
+      <Time>2016-05-06T23:42:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cub_Simba\Pouncing.png</Source>
+      <Name>Cub_Simba\Pouncing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Cub_Simba\Pouncing.xnb</Output>
+      <Time>2016-05-07T01:11:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>lizard\Slash.png</Source>
+      <Name>lizard\Slash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Slash.xnb</Output>
+      <Time>2016-05-07T13:02:04+03:00</Time>
+    </Item>
+    <Item>
+      <Source>hedgehog\Running.png</Source>
+      <Name>hedgehog\Running</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hedgehog\Running.xnb</Output>
+      <Time>2016-05-07T14:33:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>hedgehog\Stand.png</Source>
+      <Name>hedgehog\Stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hedgehog\Stand.xnb</Output>
+      <Time>2016-05-07T14:34:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>beetle\Running.png</Source>
+      <Name>beetle\Running</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\beetle\Running.xnb</Output>
+      <Time>2016-05-08T00:23:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>beetle\Stand.png</Source>
+      <Name>beetle\Stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\beetle\Stand.xnb</Output>
+      <Time>2016-05-08T00:24:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Adult_Simba\Swinging.png</Source>
+      <Name>Adult_Simba\Swinging</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\Swinging.xnb</Output>
+      <Time>2016-05-14T15:15:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Stages\Secondstage.png</Source>
+      <Name>Stages\Secondstage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Stages\Secondstage.xnb</Output>
+      <Time>2016-05-15T18:33:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>scar\Running.png</Source>
+      <Name>scar\Running</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Running.xnb</Output>
+      <Time>2016-05-17T10:29:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>scar\Jump.png</Source>
+      <Name>scar\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Jump.xnb</Output>
+      <Time>2016-05-17T11:37:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>scar\Running_Jump.png</Source>
+      <Name>scar\Running_Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\scar\Running_Jump.xnb</Output>
+      <Time>2016-05-17T11:37:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp.png</Source>
+      <Name>PowerUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\PowerUp.xnb</Output>
+      <Time>2016-05-19T17:18:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>hyena\Running.png</Source>
+      <Name>hyena\Running</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Running.xnb</Output>
+      <Time>2016-05-20T21:49:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>hyena\Stand.png</Source>
+      <Name>hyena\Stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Stand.xnb</Output>
+      <Time>2016-05-20T19:15:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>hyena\Running_Jump.png</Source>
+      <Name>hyena\Running_Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Running_Jump.xnb</Output>
+      <Time>2016-05-20T21:50:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>hyena\Dying.png</Source>
+      <Name>hyena\Dying</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Dying.xnb</Output>
+      <Time>2016-05-20T20:06:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>hyena\Jump.png</Source>
+      <Name>hyena\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\Jump.xnb</Output>
+      <Time>2016-05-20T21:51:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>hyena\GettingSlashed.png</Source>
+      <Name>hyena\GettingSlashed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\GettingSlashed.xnb</Output>
+      <Time>2016-05-20T22:04:04+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Adult_Simba\ThrowingEnemy.png</Source>
+      <Name>Adult_Simba\ThrowingEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Adult_Simba\ThrowingEnemy.xnb</Output>
+      <Time>2016-05-21T20:33:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>hyena\TossedBySimba.png</Source>
+      <Name>hyena\TossedBySimba</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hyena\TossedBySimba.xnb</Output>
+      <Time>2016-05-22T19:09:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>lizard\Jump.png</Source>
+      <Name>lizard\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\lizard\Jump.xnb</Output>
+      <Time>2016-06-18T14:28:34.5303396+03:00</Time>
+    </Item>
+    <Item>
+      <Source>hedgehog\Jump.png</Source>
+      <Name>hedgehog\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\hedgehog\Jump.xnb</Output>
+      <Time>2016-06-18T14:29:11.5818315+03:00</Time>
+    </Item>
+    <Item>
+      <Source>beetle\Jump.png</Source>
+      <Name>beetle\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\beetle\Jump.xnb</Output>
+      <Time>2016-06-18T14:29:31.1492662+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Lives\FiveLives.png</Source>
+      <Name>Lives\FiveLives</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\FiveLives.xnb</Output>
+      <Time>2016-06-24T19:45:14.8159097+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Lives\FourLives.png</Source>
+      <Name>Lives\FourLives</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\FourLives.xnb</Output>
+      <Time>2016-06-24T16:58:43.8201744+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Lives\OneLives.png</Source>
+      <Name>Lives\OneLives</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\OneLives.xnb</Output>
+      <Time>2016-06-24T16:58:43.8221748+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Lives\ThreeLives.png</Source>
+      <Name>Lives\ThreeLives</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\ThreeLives.xnb</Output>
+      <Time>2016-06-24T16:58:43.8241748+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Lives\TwoLives.png</Source>
+      <Name>Lives\TwoLives</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\TwoLives.xnb</Output>
+      <Time>2016-06-24T16:58:43.8271747+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Lives\ZeroLives.png</Source>
+      <Name>Lives\ZeroLives</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Lives\ZeroLives.xnb</Output>
+      <Time>2016-06-24T16:58:43.8292468+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SimbaFaces\AdultSimbaFace.png</Source>
+      <Name>SimbaFaces\AdultSimbaFace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\SimbaFaces\AdultSimbaFace.xnb</Output>
+      <Time>2016-06-24T17:05:43.4220651+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SimbaFaces\CubSimbaFace.png</Source>
+      <Name>SimbaFaces\CubSimbaFace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\SimbaFaces\CubSimbaFace.xnb</Output>
+      <Time>2016-06-24T17:05:43.425065+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Online.png</Source>
+      <Name>Online</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Online.xnb</Output>
+      <Time>2016-07-08T19:23:47.7479863+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pause.png</Source>
+      <Name>Pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Pause.xnb</Output>
+      <Time>2016-06-24T18:41:21.2822426+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pointer.png</Source>
+      <Name>Pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Pointer.xnb</Output>
+      <Time>2016-06-24T19:31:19.4412736+03:00</Time>
+    </Item>
+    <Item>
+      <Source>PauseMessage.png</Source>
+      <Name>PauseMessage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\PauseMessage.xnb</Output>
+      <Time>2016-07-01T22:41:08.1605411+03:00</Time>
+    </Item>
+    <Item>
+      <Source>WinningMessage.png</Source>
+      <Name>WinningMessage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\WinningMessage.xnb</Output>
+      <Time>2016-07-02T00:00:46.8889118+03:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu.png</Source>
+      <Name>MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\MainMenu.xnb</Output>
+      <Time>2016-07-08T19:23:24.3844327+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Mute.png</Source>
+      <Name>Mute</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Mute.xnb</Output>
+      <Time>2016-07-22T17:57:53.6129237+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ThePrideLands.png</Source>
+      <Name>ThePrideLands</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\ThePrideLands.xnb</Output>
+      <Time>2016-07-25T22:17:52.5109928+03:00</Time>
+    </Item>
+    <Item>
+      <Source>PrideRock.png</Source>
+      <Name>PrideRock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\PrideRock.xnb</Output>
+      <Time>2016-07-25T22:40:37.7312493+03:00</Time>
+    </Item>
+    <Item>
+      <Source>rainDrop.png</Source>
+      <Name>rainDrop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\rainDrop.xnb</Output>
+      <Time>2016-10-03T17:15:51.5414993+03:00</Time>
+    </Item>
+    <Item>
+      <Source>flame.png</Source>
+      <Name>flame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\flame.xnb</Output>
+      <Time>2016-10-04T12:37:36.7968687+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2016-07-29T23:00:26.0950078+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Final.wav</Source>
+      <Name>Audio\Final</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\Final.xnb</Output>
+      <Time>2016-07-01T19:14:15.348894+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\FirstLevelSong.wav</Source>
+      <Name>Audio\FirstLevelSong</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\FirstLevelSong.xnb</Output>
+      <Time>2016-07-01T19:14:15.3710014+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\HyenaBosSound.wav</Source>
+      <Name>Audio\HyenaBosSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\HyenaBosSound.xnb</Output>
+      <Time>2016-07-01T19:14:15.386645+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\MainMenuSound.wav</Source>
+      <Name>Audio\MainMenuSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\MainMenuSound.xnb</Output>
+      <Time>2016-07-01T19:14:15.402271+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SecondLevelSong.wav</Source>
+      <Name>Audio\SecondLevelSong</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\Audio\SecondLevelSong.xnb</Output>
+      <Time>2016-07-01T19:14:15.4335058+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxxContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxxContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ben-El\Desktop\Lion king\Lion King - Final\xxx\xxx\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-06-16T12:29:59.4963824+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
